@@ -1,0 +1,10 @@
+C:\Users\sandor.norbert\Desktop\idojaras\idojaras\bin\Debug\idojaras.exe.config
+C:\Users\sandor.norbert\Desktop\idojaras\idojaras\bin\Debug\idojaras.exe
+C:\Users\sandor.norbert\Desktop\idojaras\idojaras\bin\Debug\idojaras.pdb
+C:\Users\sandor.norbert\Desktop\idojaras\idojaras\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sandor.norbert\Desktop\idojaras\idojaras\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sandor.norbert\Desktop\idojaras\idojaras\obj\Debug\idojaras.csproj.AssemblyReference.cache
+C:\Users\sandor.norbert\Desktop\idojaras\idojaras\obj\Debug\idojaras.csproj.CoreCompileInputs.cache
+C:\Users\sandor.norbert\Desktop\idojaras\idojaras\obj\Debug\idojaras.csproj.CopyComplete
+C:\Users\sandor.norbert\Desktop\idojaras\idojaras\obj\Debug\idojaras.exe
+C:\Users\sandor.norbert\Desktop\idojaras\idojaras\obj\Debug\idojaras.pdb
